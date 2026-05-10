@@ -189,14 +189,6 @@ Phase 6 → Cookie Security Audit   (Secure/HttpOnly/SameSite flags)
 
 MIT License — see [LICENSE](LICENSE) for details.
 
----
 
-## 🙋 Author
-
-**[Your Name]**  
-Cybersecurity Enthusiast | Penetration Tester  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
-
----
 
 > *Built for educational purposes and authorized security testing only.*
