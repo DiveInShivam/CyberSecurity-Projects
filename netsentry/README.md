@@ -267,12 +267,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙋 Author
-
-**[Your Name]**  
-Cybersecurity Enthusiast | Network Security Researcher  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
-
----
 
 > *For authorized network security assessments only. Always obtain written permission before scanning.*
